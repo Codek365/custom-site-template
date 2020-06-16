@@ -1,0 +1,28 @@
+{
+    "name": "acme/brilliant-wordpress-site",
+    "description": "My brilliant WordPress site",
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
+    "config"      : {
+        "vendor-dir": "vendor"
+    },
+    "require": {
+        "wpackagist-plugin/akismet":"dev-trunk",
+        "johnpbloch/wordpress"            : ">=4.9",
+        "rarst/fragment-cache"            : "^1.3",
+        "rarst/update-blocker"            : "^1.1",
+        "wpackagist-plugin/theme-check"               : "*",
+        "wpackagist-theme/storto":"1.6.1"
+    },
+    "extra": {
+        "wordpress-install-dir": "public_html",
+        "installer-paths": {
+            "public_html/wp-content/plugins/{$name}/": ["type:wordpress-plugin"],
+            "public_html/wp-content/themes/{$name}/": ["type:wordpress-theme"]
+        }
+    }
+}
