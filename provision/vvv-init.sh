@@ -224,4 +224,8 @@ setup_wp_config_constants
 install_plugins
 install_themes
 
+echo " * init composer"
+cd "${VVV_PATH_TO_SITE}/public_html" 
+composer install
+
 echo " * Site Template provisioner script completed for ${VVV_SITE_NAME}"
