@@ -31,6 +31,8 @@ setup_nginx_folders() {
   noroot touch "${VVV_PATH_TO_SITE}/log/nginx-access.log"
   echo " * Creating public_html folder if it doesn't exist already"
   noroot mkdir -p "${VVV_PATH_TO_SITE}/public_html"
+  cd "${VVV_PATH_TO_SITE}/public_html" 
+  composer install
 }
 
 install_plugins() {
