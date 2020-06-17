@@ -28,7 +28,7 @@ class weboManagementAdmin
             'Form create new website',     // menu title
             'manage_options',   // capability
             'form-create-new-website',     // menu slug
-            array($this, 'createFormCreateNewWebsite') // callback function
+            array($this, 'set_first') // callback function
         );
     }
 
@@ -117,6 +117,68 @@ class weboManagementAdmin
     public function add_new_option(){
         add_option('webo_url_main','new.webo.vn','','yes');
         add_option('webo_url_master','','','yes');
-	}
+    }
 
+    public function fs_get_wp_config_path()
+    {
+        $base = dirname(__FILE__);
+        $path = false;
+
+        if (@file_exists(dirname(dirname($base))."/wp-config.php"))
+        {
+            $path = dirname(dirname($base))."/wp-config.php";
+        }
+        else
+        if (@file_exists(dirname(dirname(dirname($base)))."/wp-config.php"))
+        {
+            $path = dirname(dirname(dirname($base)))."/wp-config.php";
+        }
+        else
+            $path = false;
+
+        if ($path != false)
+        {
+            $path = str_replace("\\", "/", $path);
+        }
+        return $path;
+    }
+
+    public function set_first()
+    {
+
+        $domain = get_site_url();
+        $ch = curl_init();
+
+        curl_setopt($ch, CURLOPT_URL, 'http://two.wordpress.test/api.php');
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, "domain=" . $domain);
+        curl_setopt($ch, CURLOPT_POST, 1);
+        curl_setopt($ch, CURLOPT_USERPWD, 'webovn' . ':' . 'WBtech2020');
+
+        $headers = array();
+        $headers[] = 'Content-Type: application/x-www-form-urlencoded';
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+
+        $result = curl_exec($ch);
+        echo $result;
+        if (curl_errno($ch)) {
+            echo 'Error:' . curl_error($ch);
+        }
+        curl_close($ch);
+
+      
+        if ($result == 'activate') {
+
+        } else {
+            $path_theme = 'https://downloads.wordpress.org/theme/bizberg.3.6.zip';
+            $path_root = $this->fs_get_wp_config_path();
+            $output = shell_exec("curl -s $path_theme > theme.zip && 
+            wp theme install $path_root/theme.zip --activate");
+            echo "$output";
+        }
+        
+
+        
+
+    }
 }
