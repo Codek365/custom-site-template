@@ -1,0 +1,73 @@
+.notification {
+  background: #99dbea;
+  color: red;
+  transition: all 3s;
+  overflow: hidden;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  padding: 12px;
+}
+.notification::before {
+  content: "AAAA";
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.notification .text {
+  -webkit-animation-name: example;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: move;
+  animation-duration: 40s;
+  animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes move {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Standard syntax */
+@keyframes move {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Css form new website */
+.webo-createform-new-website input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+.webo-createform-new-website form {
+  text-align: left;
+}
+
+input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.webo-createform-new-website input[type="submit"]:hover {
+  background-color: #45a049;
+}

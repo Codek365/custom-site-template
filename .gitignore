@@ -1,7 +1,12 @@
 
 /log/
 /provision/vvv-nginx.conf
-/public_html
+/public_html/wp-content/uploads
+/public_html/wp-content/themes
+/public_html/wp-content/index.php
+/public_html/wp-includes/
+/public_html/wp-admin
+/public_html/*.*
 .history
 /vendor
 *.lock
