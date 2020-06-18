@@ -1,15 +1,15 @@
 <?php
 
-// echo WEBO_MANAGEMENT_PLUGIN_DIR . 'admin.php'; die;
-class WeboManagementAdminPublic {	
+// echo sobe_MANAGEMENT_PLUGIN_DIR . 'admin.php'; die;
+class SobeManagementAdminPublic {	
 	
 	public function __construct(){		
 		$this->init();
 	}
 
 	public function init(){
-		require_once( WEBO_MANAGEMENT_PLUGIN_DIR . 'admin/class.weboManagementAdmin.php' );
-		new WeboManagementAdmin();
+		require_once( SOBE_MANAGEMENT_PLUGIN_DIR . 'admin/class.sobeManagementAdmin.php' );
+		new SobeManagementAdmin();
     }
     
 }
