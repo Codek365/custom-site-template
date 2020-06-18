@@ -74,8 +74,8 @@ class sobeManagementAdmin
 
         $result = json_decode(curl_exec($ch), true);
 
-        var_dump($result);
-        echo '<br>';
+        // var_dump($result);
+        // echo '<br>';
         
         if (curl_errno($ch)) {
             echo 'Error:' . curl_error($ch);
@@ -83,6 +83,13 @@ class sobeManagementAdmin
         curl_close($ch);
 
         if ($result['status'] == 'activate') {
+            $import_data = 'Fashion_Lifestyle_Blog.wpress';
+
+            echo $import_data;
+            $import_out = shell_exec(
+                "wp ai1wm restore $import_data"
+            );
+            echo "$import_out";
 
         } else {
             $theme_name = $result['theme_name'];
@@ -100,8 +107,6 @@ class sobeManagementAdmin
                 echo "$theme_install";
             }
             
-
-           
             
         }
         
