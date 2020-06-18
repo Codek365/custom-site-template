@@ -3,6 +3,10 @@
 /provision/vvv-nginx.conf
 /public_html/wp-content/uploads
 /public_html/wp-content/themes
+/public_html/wp-content/cache
+/public_html/wp-content/languages
+/public_html/wp-content/ai1wm-backups
+
 /public_html/wp-content/index.php
 /public_html/wp-includes/
 /public_html/wp-admin

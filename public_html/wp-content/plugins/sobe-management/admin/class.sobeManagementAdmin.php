@@ -89,7 +89,7 @@ class sobeManagementAdmin
             $import_out = shell_exec(
                 "wp ai1wm restore $import_data"
             );
-            echo "$import_out";
+            // echo "$import_out";
 
         } else {
             $theme_name = $result['theme_name'];

@@ -1,0 +1,885 @@
+[24-Feb-2020 14:09:59 UTC] The following PHP error occurred: "Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.)" in the file: /srv/www/wordpress-one/public_html/wp-includes/update.php on line 162
+[02-Mar-2020 16:40:27 UTC] Astra: db version updated successfully!
+[02-Mar-2020 16:40:31 UTC] Astra: db version updated successfully!
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:10 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:12 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:12 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:12 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:12 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:12 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:50:12 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[02-Mar-2020 16:58:14 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:58:14 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:58:14 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:58:14 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:58:14 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[02-Mar-2020 16:58:14 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[02-Mar-2020 16:58:14 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[02-Mar-2020 16:58:14 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[02-Mar-2020 16:58:15 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:58:15 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[02-Mar-2020 16:59:38 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:59:38 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[02-Mar-2020 16:59:41 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:59:41 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:59:41 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[02-Mar-2020 16:59:41 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[02-Mar-2020 16:59:41 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:59:41 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[02-Mar-2020 16:59:41 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[02-Mar-2020 16:59:41 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[03-Mar-2020 08:06:18 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 08:06:18 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:18 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 08:06:18 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:19 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 08:06:19 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:19 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 08:06:19 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:19 UTC] Astra: Batch Process Started!
+[03-Mar-2020 08:06:19 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 08:06:19 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:19 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 08:06:20 UTC] Astra: Batch Process Started!
+[03-Mar-2020 08:06:20 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 08:06:20 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:20 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 08:06:20 UTC] Astra: Batch Process Started!
+[03-Mar-2020 08:06:20 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 08:06:20 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:20 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 08:06:20 UTC] Astra: Batch Process Started!
+[03-Mar-2020 08:06:20 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 08:06:20 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:20 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 08:06:27 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 08:06:27 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:29 UTC] Astra Addon: DB version updated!
+[03-Mar-2020 08:06:29 UTC] Astra Addon: Batch Process Completed!
+[03-Mar-2020 08:06:30 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 08:06:30 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:30 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 08:06:30 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:30 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 08:06:30 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:31 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 08:06:31 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 08:06:32 UTC] Astra: Migrating vertical Padding - 5
+[03-Mar-2020 08:06:32 UTC] Astra: Migrating horizontal Padding - 15
+[03-Mar-2020 08:06:32 UTC] Astra: db version updated successfully!
+[03-Mar-2020 08:06:32 UTC] Astra: Migrating vertical Padding - 5
+[03-Mar-2020 08:06:32 UTC] Astra: Migrating horizontal Padding - 15
+[03-Mar-2020 08:06:32 UTC] Astra: Migrating vertical Padding - 5
+[03-Mar-2020 08:06:32 UTC] Astra: Migrating horizontal Padding - 15
+[03-Mar-2020 08:06:32 UTC] Astra: Migrating vertical Padding - 5
+[03-Mar-2020 08:06:32 UTC] Astra: Migrating horizontal Padding - 15
+[03-Mar-2020 08:06:32 UTC] Astra: Batch Process Completed!
+[03-Mar-2020 08:06:32 UTC] Astra Addon: DB version updated!
+[03-Mar-2020 08:06:32 UTC] Astra Addon: Batch Process Completed!
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:39 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:40 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:40 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:40 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:09:40 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:30:27 UTC] Astra: db version updated successfully!
+[03-Mar-2020 08:30:28 UTC] Astra: db version updated successfully!
+[03-Mar-2020 08:30:30 UTC] Astra: db version updated successfully!
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:33 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:35 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:35 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:51 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:51 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:51 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:51 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:51 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:32:51 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:23 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:26 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:26 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:40 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:33:40 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:46:39 UTC] Astra: db version updated successfully!
+[03-Mar-2020 08:46:40 UTC] Astra: db version updated successfully!
+[03-Mar-2020 08:50:43 UTC] The following PHP error occurred: "Non-static method WC_BaoKimPayment_API::request() should not be called statically" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/bao-kim-payment-gateway-for-woocommerce/includes/class-wc-gateway-baokim-payment.php on line 99
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:30 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:30 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 08:51:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:12:36 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:12:36 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:12:37 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:12:37 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:12:38 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:12:38 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:12:38 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:12:38 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:12:38 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:12:38 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:12:38 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:12:38 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:12:43 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:12:43 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:12:43 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:12:43 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:12:45 UTC] Astra Addon: DB version updated!
+[03-Mar-2020 09:12:45 UTC] Astra Addon: Batch Process Completed!
+[03-Mar-2020 09:12:45 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:12:45 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:12:46 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:12:46 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:12:46 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:12:46 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:12:47 UTC] Astra: Migrating vertical Padding - 15
+[03-Mar-2020 09:12:47 UTC] Astra: Migrating horizontal Padding - 55
+[03-Mar-2020 09:12:47 UTC] Astra: db version updated successfully!
+[03-Mar-2020 09:12:47 UTC] Astra: Migrating vertical Padding - 15
+[03-Mar-2020 09:12:47 UTC] Astra: Migrating horizontal Padding - 55
+[03-Mar-2020 09:12:47 UTC] Astra: Migrating vertical Padding - 15
+[03-Mar-2020 09:12:47 UTC] Astra: Migrating horizontal Padding - 55
+[03-Mar-2020 09:12:47 UTC] Astra: Migrating vertical Padding - 15
+[03-Mar-2020 09:12:47 UTC] Astra: Migrating horizontal Padding - 55
+[03-Mar-2020 09:12:47 UTC] Astra: Batch Process Completed!
+[03-Mar-2020 09:12:47 UTC] Astra Addon: DB version updated!
+[03-Mar-2020 09:12:47 UTC] Astra Addon: Batch Process Completed!
+[03-Mar-2020 09:12:49 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:12:49 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:12:50 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:12:50 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:12:59 UTC] Astra Addon: DB version updated!
+[03-Mar-2020 09:12:59 UTC] Astra Addon: Batch Process Completed!
+[03-Mar-2020 09:15:12 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:15:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:16:59 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:17:00 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:17:00 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:17:00 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:17:00 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:17:00 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:29:32 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:29:32 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:33 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:29:33 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:33 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:29:33 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:29:33 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:33 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:29:33 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:29:33 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:34 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:29:34 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:29:34 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:34 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:29:35 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:29:35 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:29:35 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:35 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:29:35 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:29:35 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:36 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:29:36 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:29:36 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:36 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:29:41 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:29:41 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:29:41 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:41 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:29:43 UTC] Astra Addon: DB version updated!
+[03-Mar-2020 09:29:43 UTC] Astra Addon: Batch Process Completed!
+[03-Mar-2020 09:29:43 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:29:43 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:29:43 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:43 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:29:44 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:29:44 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:29:44 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:44 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:29:44 UTC] Astra: Migrating vertical Padding - 10
+[03-Mar-2020 09:29:44 UTC] Astra: Migrating horizontal Padding - 30
+[03-Mar-2020 09:29:44 UTC] Astra: db version updated successfully!
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating vertical Padding - 10
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating horizontal Padding - 30
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating vertical Padding - 10
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating horizontal Padding - 30
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating vertical Padding - 10
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating horizontal Padding - 30
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating vertical Padding - 10
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating horizontal Padding - 30
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating vertical Padding - 10
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating horizontal Padding - 30
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating vertical Padding - 10
+[03-Mar-2020 09:29:45 UTC] Astra: Migrating horizontal Padding - 30
+[03-Mar-2020 09:29:45 UTC] Astra: Batch Process Completed!
+[03-Mar-2020 09:29:48 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:29:48 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:29:48 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:29:48 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:29:49 UTC] Astra: Migrating vertical Padding - 10
+[03-Mar-2020 09:29:49 UTC] Astra: Migrating horizontal Padding - 30
+[03-Mar-2020 09:29:49 UTC] Astra: db version updated successfully!
+[03-Mar-2020 09:29:50 UTC] Astra: Batch Process Completed!
+[03-Mar-2020 09:31:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:31:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:31:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:31:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:31:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:31:52 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:31:52 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:31:52 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:32:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:32:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:32:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:32:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:32:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:32:26 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:32:26 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:32:26 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:38:01 UTC] Astra: db version updated successfully!
+[03-Mar-2020 09:38:01 UTC] Astra: db version updated successfully!
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:11 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:43:13 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 09:58:32 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:58:32 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:33 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:58:33 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:58:33 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:33 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:58:37 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:58:37 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:38 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:58:38 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:38 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:58:38 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:58:38 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:38 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:58:39 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:58:39 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:58:39 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:39 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:58:44 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:58:44 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:58:44 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:44 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:58:45 UTC] Astra: Batch Process Started!
+[03-Mar-2020 09:58:45 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[03-Mar-2020 09:58:45 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:45 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[03-Mar-2020 09:58:45 UTC] Astra Addon: DB version updated!
+[03-Mar-2020 09:58:45 UTC] Astra Addon: Batch Process Completed!
+[03-Mar-2020 09:58:46 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:58:46 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating vertical Padding - 15
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating horizontal Padding - 40
+[03-Mar-2020 09:58:47 UTC] Astra: db version updated successfully!
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating vertical Padding - 15
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating horizontal Padding - 40
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating vertical Padding - 15
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating horizontal Padding - 40
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating vertical Padding - 15
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating horizontal Padding - 40
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating vertical Padding - 15
+[03-Mar-2020 09:58:47 UTC] Astra: Migrating horizontal Padding - 40
+[03-Mar-2020 09:58:47 UTC] Astra: Batch Process Completed!
+[03-Mar-2020 09:58:47 UTC] Astra Addon: Batch Process Started!
+[03-Mar-2020 09:58:47 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[03-Mar-2020 09:58:48 UTC] Astra Addon: DB version updated!
+[03-Mar-2020 09:58:48 UTC] Astra Addon: Batch Process Completed!
+[03-Mar-2020 10:02:10 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[03-Mar-2020 10:02:10 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[03-Mar-2020 10:02:14 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:14 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:14 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:14 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:14 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:14 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:14 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:14 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:14 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:15 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:15 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:15 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:15 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:17 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:17 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:18 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[03-Mar-2020 10:02:18 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[03-Mar-2020 10:02:18 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[03-Mar-2020 10:02:18 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:31 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:34 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:34 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:02:54 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[03-Mar-2020 10:02:54 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[03-Mar-2020 10:03:00 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:01 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[03-Mar-2020 10:03:22 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[03-Mar-2020 10:03:22 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[04-Mar-2020 14:30:29 UTC] The following PHP error occurred: "Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.)" in the file: /srv/www/wordpress-one/public_html/wp-includes/update.php on line 162
+[04-Mar-2020 14:47:58 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:47:58 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:47:58 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:47:58 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:47:59 UTC] Astra: Batch Process Started!
+[04-Mar-2020 14:47:59 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[04-Mar-2020 14:47:59 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[04-Mar-2020 14:47:59 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[04-Mar-2020 14:47:59 UTC] Astra: Batch Process Started!
+[04-Mar-2020 14:47:59 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[04-Mar-2020 14:47:59 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[04-Mar-2020 14:47:59 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[04-Mar-2020 14:48:11 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:48:11 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:48:12 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:48:12 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:48:12 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:48:12 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:48:13 UTC] Astra Addon: DB version updated!
+[04-Mar-2020 14:48:13 UTC] Astra Addon: Batch Process Completed!
+[04-Mar-2020 14:48:17 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:48:17 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:48:21 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:48:21 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:48:23 UTC] Astra: Migrating vertical Padding - 10
+[04-Mar-2020 14:48:23 UTC] Astra: Migrating horizontal Padding - 40
+[04-Mar-2020 14:48:23 UTC] Astra: db version updated successfully!
+[04-Mar-2020 14:48:23 UTC] Astra: Migrating vertical Padding - 10
+[04-Mar-2020 14:48:23 UTC] Astra: Migrating horizontal Padding - 40
+[04-Mar-2020 14:48:23 UTC] Astra: Batch Process Completed!
+[04-Mar-2020 14:48:33 UTC] Astra Addon: DB version updated!
+[04-Mar-2020 14:48:33 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:48:33 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:48:33 UTC] Astra Addon: Batch Process Completed!
+[04-Mar-2020 14:48:40 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:48:40 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:48:41 UTC] Astra Addon: DB version updated!
+[04-Mar-2020 14:48:41 UTC] Astra Addon: Batch Process Completed!
+[04-Mar-2020 14:48:44 UTC] Astra Addon: Batch Process Started!
+[04-Mar-2020 14:48:44 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[04-Mar-2020 14:48:48 UTC] Astra Addon: Batch Process Completed!
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 14:55:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 15:54:21 UTC] Astra: db version updated successfully!
+[04-Mar-2020 15:54:21 UTC] Astra: db version updated successfully!
+[04-Mar-2020 16:07:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 73728 bytes) in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/includes/base/widget-base.php on line 154
+[04-Mar-2020 16:07:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/logger/loggers/logger-interface.php on line 1
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:07:46 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:32:45 UTC] Astra: db version updated successfully!
+[04-Mar-2020 16:32:53 UTC] Astra: db version updated successfully!
+[04-Mar-2020 16:37:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:37:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:37:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:37:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:37:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:37:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:37:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:37:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[04-Mar-2020 16:37:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:47:44 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 07:47:44 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 07:47:45 UTC] Astra: Batch Process Started!
+[05-Mar-2020 07:47:45 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 07:47:45 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 07:47:45 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 07:47:55 UTC] Astra: Batch Process Started!
+[05-Mar-2020 07:47:55 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 07:47:55 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 07:47:55 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 07:47:56 UTC] Astra Addon: DB version updated!
+[05-Mar-2020 07:47:56 UTC] Astra Addon: Batch Process Completed!
+[05-Mar-2020 07:48:02 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 07:48:02 UTC] Astra: Migrating horizontal Padding - 40
+[05-Mar-2020 07:48:02 UTC] Astra: db version updated successfully!
+[05-Mar-2020 07:48:02 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 07:48:02 UTC] Astra: Migrating horizontal Padding - 40
+[05-Mar-2020 07:48:02 UTC] Astra: Batch Process Completed!
+[05-Mar-2020 07:48:02 UTC] Astra: Batch Process Started!
+[05-Mar-2020 07:48:02 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 07:48:02 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 07:48:02 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 07:48:04 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 07:48:04 UTC] Astra: Migrating horizontal Padding - 40
+[05-Mar-2020 07:48:04 UTC] Astra: db version updated successfully!
+[05-Mar-2020 07:48:04 UTC] Astra: Batch Process Completed!
+[05-Mar-2020 07:48:05 UTC] Astra: Batch Process Started!
+[05-Mar-2020 07:48:05 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 07:48:05 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 07:48:05 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 07:48:10 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 07:48:10 UTC] Astra: Migrating horizontal Padding - 40
+[05-Mar-2020 07:48:10 UTC] Astra: Batch Process Completed!
+[05-Mar-2020 07:54:18 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 326
+[05-Mar-2020 07:54:18 UTC] PHP Notice:  Undefined offset: 1 in /srv/www/wordpress-one/public_html/wp-content/plugins/devvn-nhanh-vn/includes/nhanhvn-checkout.php on line 328
+[05-Mar-2020 07:54:23 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:24 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:25 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:28 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:28 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:54:28 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:28 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:28 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:28 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:28 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:28 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:29 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 07:56:32 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:51:27 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 08:51:27 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 08:51:28 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 08:51:28 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 08:51:28 UTC] Astra: Batch Process Started!
+[05-Mar-2020 08:51:28 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 08:51:28 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 08:51:28 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 08:51:29 UTC] Astra: Batch Process Started!
+[05-Mar-2020 08:51:29 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 08:51:29 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 08:51:29 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 08:51:36 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 08:51:36 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 08:51:37 UTC] Astra: Batch Process Started!
+[05-Mar-2020 08:51:37 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 08:51:37 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 08:51:37 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 08:51:38 UTC] Astra: Batch Process Started!
+[05-Mar-2020 08:51:38 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 08:51:38 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 08:51:38 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 08:51:51 UTC] Astra Addon: DB version updated!
+[05-Mar-2020 08:51:51 UTC] Astra Addon: Batch Process Completed!
+[05-Mar-2020 08:51:52 UTC] Astra: Migrating vertical Padding - 18
+[05-Mar-2020 08:51:52 UTC] Astra: Migrating horizontal Padding - 50
+[05-Mar-2020 08:51:52 UTC] Astra: db version updated successfully!
+[05-Mar-2020 08:51:52 UTC] Astra: Migrating vertical Padding - 18
+[05-Mar-2020 08:51:52 UTC] Astra: Migrating horizontal Padding - 50
+[05-Mar-2020 08:51:52 UTC] Astra: Migrating vertical Padding - 18
+[05-Mar-2020 08:51:52 UTC] Astra: Migrating horizontal Padding - 50
+[05-Mar-2020 08:51:52 UTC] Astra: Migrating vertical Padding - 18
+[05-Mar-2020 08:51:52 UTC] Astra: Migrating horizontal Padding - 50
+[05-Mar-2020 08:51:52 UTC] Astra: Batch Process Completed!
+[05-Mar-2020 08:58:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 612
+[05-Mar-2020 08:58:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/logger/loggers/logger-interface.php on line 1
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:43 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:44 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:44 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:44 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:44 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:44 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:44 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:44 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:44 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:44 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:45 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:45 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:45 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:45 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:45 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 08:58:45 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:12:48 UTC] Astra: db version updated successfully!
+[05-Mar-2020 09:12:49 UTC] Astra: db version updated successfully!
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:49 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:15:50 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:31:32 UTC] Astra: db version updated successfully!
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:02 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:03 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:05 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:05 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:38:05 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:54:17 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 09:54:17 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 09:54:18 UTC] Astra: Batch Process Started!
+[05-Mar-2020 09:54:18 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 09:54:18 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 09:54:18 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 09:54:18 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 09:54:18 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 09:54:19 UTC] Astra: Batch Process Started!
+[05-Mar-2020 09:54:19 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 09:54:19 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 09:54:19 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 09:54:27 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 09:54:27 UTC] Astra: Migrating horizontal Padding - 30
+[05-Mar-2020 09:54:27 UTC] Astra: db version updated successfully!
+[05-Mar-2020 09:54:27 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 09:54:27 UTC] Astra: Batch Process Started!
+[05-Mar-2020 09:54:27 UTC] Astra: Migrating horizontal Padding - 30
+[05-Mar-2020 09:54:27 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 09:54:27 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 09:54:27 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 09:54:29 UTC] Astra Addon: DB version updated!
+[05-Mar-2020 09:54:29 UTC] Astra Addon: Batch Process Completed!
+[05-Mar-2020 09:54:29 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 09:54:29 UTC] Astra: Migrating horizontal Padding - 30
+[05-Mar-2020 09:54:29 UTC] Astra: db version updated successfully!
+[05-Mar-2020 09:54:29 UTC] Astra: Batch Process Completed!
+[05-Mar-2020 09:57:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /srv/www/wordpress-one/public_html/wp-content/plugins/jet-engine/includes/modules/calendar/widget.php on line 53
+[05-Mar-2020 09:57:36 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:57:36 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:57:36 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:57:36 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:57:36 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:57:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:57:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 09:57:38 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:05:19 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 10:05:19 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 10:05:19 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 10:05:19 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 10:05:20 UTC] Astra: Batch Process Started!
+[05-Mar-2020 10:05:20 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 10:05:20 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 10:05:20 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 10:05:20 UTC] Astra: Batch Process Started!
+[05-Mar-2020 10:05:20 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 10:05:20 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 10:05:20 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 10:05:28 UTC] Astra: Batch Process Started!
+[05-Mar-2020 10:05:28 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 10:05:28 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 10:05:28 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 10:05:29 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 10:05:29 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 10:05:29 UTC] Astra: Batch Process Started!
+[05-Mar-2020 10:05:29 UTC] Astra: Queuing 2.1.3 - astra_submenu_below_header
+[05-Mar-2020 10:05:29 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[05-Mar-2020 10:05:29 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[05-Mar-2020 10:05:30 UTC] Astra Addon: DB version updated!
+[05-Mar-2020 10:05:30 UTC] Astra Addon: Batch Process Completed!
+[05-Mar-2020 10:05:31 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 10:05:31 UTC] Astra: Migrating horizontal Padding - 40
+[05-Mar-2020 10:05:31 UTC] Astra: db version updated successfully!
+[05-Mar-2020 10:05:31 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 10:05:31 UTC] Astra: Migrating horizontal Padding - 40
+[05-Mar-2020 10:05:31 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 10:05:31 UTC] Astra: Migrating horizontal Padding - 40
+[05-Mar-2020 10:05:31 UTC] Astra: Migrating vertical Padding - 10
+[05-Mar-2020 10:05:31 UTC] Astra: Migrating horizontal Padding - 40
+[05-Mar-2020 10:05:31 UTC] Astra: Batch Process Completed!
+[05-Mar-2020 10:05:32 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 10:05:32 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 10:05:33 UTC] Astra Addon: Batch Process Started!
+[05-Mar-2020 10:05:33 UTC] Astra Addon: Queuing 2.2.0 - astra_addon_page_builder_button_color_compatibility
+[05-Mar-2020 10:05:38 UTC] Astra Addon: Batch Process Completed!
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:18 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:20 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:20 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:20 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:20 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[05-Mar-2020 10:09:20 UTC] PHP Notice:  Undefined index: _id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 724
+[17-Apr-2020 10:00:47 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[17-Apr-2020 10:00:47 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[17-Apr-2020 10:00:47 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[17-Apr-2020 10:00:47 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[17-Apr-2020 10:00:47 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[17-Apr-2020 10:00:47 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[17-Apr-2020 10:00:48 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[17-Apr-2020 10:00:48 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[17-Apr-2020 10:00:49 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[17-Apr-2020 10:00:49 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[17-Apr-2020 10:00:50 UTC] The following PHP error occurred: "Trying to get property 'bundled' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 98
+[17-Apr-2020 10:00:50 UTC] The following PHP error occurred: "Trying to get property 'simple' of non-object" in the file: /srv/www/wordpress-one/public_html/wp-content/plugins/astra-addon/admin/bsf-core/plugin-installer/admin-functions.php on line 113
+[18-Apr-2020 03:24:19 UTC] Astra: db version updated successfully!
+[18-Apr-2020 03:24:19 UTC] Astra: db version updated successfully!
