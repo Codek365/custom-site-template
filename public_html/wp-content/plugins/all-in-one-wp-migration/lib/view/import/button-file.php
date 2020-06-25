@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright (C) 2014-2019 ServMask Inc.
+ * Copyright (C) 2014-2020 ServMask Inc.
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -28,7 +28,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 ?>
 
-<a href="#" id="ai1wm-import-file">
+<a href="#" aria-label="<?php _e( 'To choose a file please go inside the link and click on the browse button.', AI1WM_PLUGIN_NAME ); ?>" id="ai1wm-import-file">
 	<?php _e( 'File', AI1WM_PLUGIN_NAME ); ?>
 	<input type="file" id="ai1wm-select-file" />
 </a>

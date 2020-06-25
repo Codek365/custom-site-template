@@ -56,59 +56,82 @@ class sobeManagementAdmin
         return $path;
     }
 
+    public function api_check()
+    {
+        $domain = 'khoa2.sobew.net';
+        // $ch = curl_init();
+
+        // curl_setopt($ch, CURLOPT_URL, 'http://id.afterz.net/api/v1/domains/khoa2.sobew.net');
+        // curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        // // curl_setopt($ch, CURLOPT_POSTFIELDS, "domain=" . $domain);
+        // curl_setopt($ch, CURLOPT_POST, 1);
+        // // curl_setopt($ch, CURLOPT_USERPWD, 'sobevn' . ':' . 'WBtech2020');
+
+        // $headers = array();
+        // $headers[] = 'Content-Type: application/x-www-form-urlencoded';
+        // curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+
+        // $result = json_decode(curl_exec($ch), true);
+
+        // var_dump($result);
+        // // echo '<br>';
+        
+        // if (curl_errno($ch)) {
+        //     echo 'Error:' . curl_error($ch);
+        // }
+        // curl_close($ch);
+
+        $cURLConnection = curl_init();
+
+        curl_setopt($cURLConnection, CURLOPT_URL, 'http://id.afterz.net/api/v1/domains/khoa2.sobew.net');
+        curl_setopt($cURLConnection, CURLOPT_RETURNTRANSFER, true);
+
+        $phoneList = curl_exec($cURLConnection);
+
+        curl_close($cURLConnection);
+
+        $jsonArrayResponse = json_decode($phoneList, true);
+
+        var_dump($jsonArrayResponse);
+
+        return $jsonArrayResponse;
+    }
+
     public function set_first()
     {
 
-        $domain = get_site_url();
-        $ch = curl_init();
-
-        curl_setopt($ch, CURLOPT_URL, 'http://two.wordpress.test/api.php');
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($ch, CURLOPT_POSTFIELDS, "domain=" . $domain);
-        curl_setopt($ch, CURLOPT_POST, 1);
-        curl_setopt($ch, CURLOPT_USERPWD, 'sobevn' . ':' . 'WBtech2020');
-
-        $headers = array();
-        $headers[] = 'Content-Type: application/x-www-form-urlencoded';
-        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-
-        $result = json_decode(curl_exec($ch), true);
-
-        // var_dump($result);
-        // echo '<br>';
+        $result = $this->api_check()['data'];
         
-        if (curl_errno($ch)) {
-            echo 'Error:' . curl_error($ch);
-        }
-        curl_close($ch);
 
-        if ($result['status'] == 'activate') {
-            $import_data = 'Fashion_Lifestyle_Blog.wpress';
+        if ($result['status'] == 1) {
+            $theme_data = $result['theme'];
 
-            echo $import_data;
+            $data_url = 'https://data.sobew.net/' . $theme_data . '.wpress';
+
+            echo $data_url;
             $import_out = shell_exec(
-                "wp ai1wm restore $import_data"
+                "wp ai1wm url restore $data_url --yes"
             );
             // echo "$import_out";
-
-        } else {
-            $theme_name = $result['theme_name'];
-            $theme_url = $result['theme_url'];
-
-            $theme_check = shell_exec(
-                "wp theme is-active $theme_name && echo $?"
-            );
-            $theme_install = shell_exec(
-                // "curl -s $theme_url > $path_theme_name &&" . 
-                "wp theme install $theme_url --activate"
-            );
-            echo "$theme_check";
-            if ($theme_check == 1) {
-                echo "$theme_install";
-            }
-            
-            
         }
+        // } else {
+        //     $theme_name = $result['theme_name'];
+        //     $theme_url = $result['theme_url'];
+
+        //     $theme_check = shell_exec(
+        //         "wp theme is-active $theme_name && echo $?"
+        //     );
+        //     $theme_install = shell_exec(
+        //         // "curl -s $theme_url > $path_theme_name &&" . 
+        //         "wp theme install $theme_url --activate"
+        //     );
+        //     echo "$theme_check";
+        //     if ($theme_check == 1) {
+        //         echo "$theme_install";
+        //     }
+            
+            
+        // }
         
 
     }

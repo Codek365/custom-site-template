@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright (C) 2014-2019 ServMask Inc.
+ * Copyright (C) 2014-2020 ServMask Inc.
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -32,7 +32,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<div class="ai1wm-buttons">
 		<div class="ai1wm-button-group ai1wm-button-export ai1wm-expandable">
 			<div class="ai1wm-button-main">
-				<span><?php _e( 'Export To', AI1WM_PLUGIN_NAME ); ?></span>
+				<span role="list" aria-label="<?php _e( 'Export To', AI1WM_PLUGIN_NAME ); ?>"><?php _e( 'Export To', AI1WM_PLUGIN_NAME ); ?></span>
 				<span class="ai1mw-lines">
 					<span class="ai1wm-line ai1wm-line-first"></span>
 					<span class="ai1wm-line ai1wm-line-second"></span>
